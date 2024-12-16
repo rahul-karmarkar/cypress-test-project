@@ -13,6 +13,7 @@
     "cypress": "^13.16.1"
   },
   "dependencies": {
-    "cypress-test-project": "file:"
+    "cypress-test-project": "file:",
+    "cypress-xpath": "^2.0.1"
   }
 }
